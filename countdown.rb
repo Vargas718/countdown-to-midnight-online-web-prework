@@ -8,10 +8,6 @@ def countdown (x)
 countdown(10)
 
 
-def countdown_with_sleep(s)
-  sleep 5
-  puts "HAPPY NEW YEAR!"
-  end
 
 
 
